@@ -342,6 +342,12 @@ figure {
   display: table;
   width: 100%;
 }
+.fh5co-cover .display-tc .title {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
 @media screen and (max-width: 768px) {
   .fh5co-cover .display-t,
   .fh5co-cover .display-tc {
@@ -1901,5 +1907,13 @@ form label {
 .js .animate-box {
   opacity: 0;
 }
+
+.heartbetween {
+  top: 4em;
+  animation: pulse 1s ease infinite;
+  height: 45px;
+  width: 45px;
+}
+
 
 /*# sourceMappingURL=style.css.map */
