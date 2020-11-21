@@ -378,7 +378,7 @@ figure {
 
 #fh5co-counter,
 #fh5co-event {
-  height: 850px;
+  height: 900px;
   float: left;
 }
 #fh5co-counter .display-t,
@@ -434,6 +434,7 @@ figure {
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
   border-radius: 4px;
+  margin-bottom: 30px;
 }
 @media screen and (max-width: 768px) {
   #fh5co-counter .event-wrap,
@@ -449,7 +450,6 @@ figure {
   display: block;
   padding-bottom: 20px;
   text-transform: uppercase;
-  letter-spacing: 2px;
 }
 #fh5co-counter .event-wrap p,
 #fh5co-counter .event-wrap span,
@@ -468,6 +468,11 @@ figure {
   width: 50%;
   float: left;
   margin-bottom: 30px;
+}
+#fh5co-event .event-wrap .address-col {
+  width: 50%;
+  float: left;
+  padding: 5px;
 }
 
 #fh5co-counter {
