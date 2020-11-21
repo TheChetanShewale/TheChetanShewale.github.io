@@ -331,9 +331,10 @@ figure {
   position: relative;
   z-index: 0;
 }
-@media screen and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
   .fh5co-cover {
-    height: 600px;
+    height: 550px;
+    background-image: url("../images/copm.jpg") !important;
   }
 }
 .fh5co-cover .display-t,
