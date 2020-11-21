@@ -123,8 +123,7 @@ figure {
 }
 @media screen and (max-width: 768px) {
   .fh5co-nav .menu-1,
-  .fh5co-nav .menu-2 
-  .fh5co-nav .pull-right {
+  .fh5co-nav .menu-2 {
     display: none;
   }
 }
@@ -334,7 +333,7 @@ figure {
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover {
-    height: 600px;
+    height: 200px;
   }
 }
 .fh5co-cover .display-t,
