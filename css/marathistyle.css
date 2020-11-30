@@ -1229,6 +1229,15 @@ form label {
   .fh5co-heading h2 {
     font-size: 40px;
   }
+  .fh5co-heading h3 {
+    font-size: 18px;
+    line-height: 32px;
+  }
+  .fh5co-heading p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #828282;
+  }
 }
 .fh5co-heading p {
   font-size: 18px;
