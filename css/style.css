@@ -1222,6 +1222,10 @@ form label {
   color: #f14e95;
   font-family: "Rye", Arial, serif;
 }
+.fh5co-heading h3 {
+  font-size: 18px;
+  line-height: 32px;
+}
 @media screen and (max-width: 768px) {
   .fh5co-heading h2 {
     font-size: 40px;
