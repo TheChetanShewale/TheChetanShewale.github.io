@@ -750,10 +750,12 @@ figure {
 #fh5co-gallery-list li a .case-studies-summary h2 {
   color: #fff;
   margin-bottom: 0;
+  font-family: "Gotu", sans-serif;
 }
 @media screen and (max-width: 768px) {
   #fh5co-gallery-list li a .case-studies-summary h2 {
     font-size: 20px;
+    font-family: "Gotu", sans-serif;
   }
 }
 #fh5co-gallery-list li.one-third {
